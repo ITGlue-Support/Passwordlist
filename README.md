@@ -5,7 +5,16 @@ This script will list the password from IT Glue. You will need to specify the na
 
 You should be an Administrator. You will need to generate an API key. Generate an API key and update the script with your API
 
-Deleted organizations can be restored from Activity logs, but this needs to be restored manually, one at a time.
+# Steps
+
+You will need to update 2 values before running the script:
+
+**$OrgID** = '651308432' **#Enter your ORG ID**
+
+**$Pass_Object_name** = 'Postman-updated-password' **#Enter the password name**
+
+![image](https://github.com/user-attachments/assets/4dc51b1d-9e99-4dc7-aeed-8270b88bb441)
+
 
 # Disclaimer
 
